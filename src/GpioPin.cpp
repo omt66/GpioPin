@@ -43,7 +43,7 @@ GpioPin::GpioPin(const GpioPin& orig) {
 }
 
 /**
- * Destructor for the IOPin class.
+ * Destructor for the GpioPin class.
  */
 GpioPin::~GpioPin() {
     gpioUnexport();
