@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
         p3.setAsOutput();
 
         // Let's turn on and off the outputs!
-        // If you set up the LEDs, you will see them turning on and off based on 
+        // If you set up the LEDs, you will see them turning on and off  
         // based on the GPIO pins' output values.
         for (int i=0;i < 100;i++) {
             p1.setValue(i % 2 == 0 ? 1 : 0);
