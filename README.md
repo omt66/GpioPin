@@ -7,4 +7,5 @@ This is a trivial project with only 3 files. You can compile it from the command
 
 
 Compile: g++ main.cpp GpioPin.cpp  -o main
+
 Run: sudo ./main
