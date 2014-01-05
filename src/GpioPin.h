@@ -8,7 +8,7 @@
  */
 
 #ifndef OT_RPI_GPIOPIN_H
-#define	OT_RPI_GPIOPIN_H
+#define OT_RPI_GPIOPIN_H
 
 #include <string>
 
